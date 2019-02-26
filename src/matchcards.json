@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/darthbane.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/darthcaedus.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/darthmalak.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/darthmalgus.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/darthmaul.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/darthnhilus.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/darthplaguies.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/darthrevan.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/darthsidious.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/darthsion.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/darthtraya.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/darthvader.jpg",
+      "clicked": false
+    }
+  ]
